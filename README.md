@@ -6,4 +6,4 @@ This repository provides an implementation of a novel segmentation model. The mo
 To install the required dependencies, run:
 
 ```bash
-git clone https://github.com/anonymous-researcher/
+git clone https://github.com/researcher1919/USP-Net
