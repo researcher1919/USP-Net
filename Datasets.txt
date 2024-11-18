@@ -1,0 +1,6 @@
+Datasets:
+CVC-ClinicDB - https://www.dropbox.com/scl/fi/ky766dwcxt9meq3aklkip/CVC-ClinicDB.rar?dl=0&e=2&file_subpath=%2FCVC-ClinicDB&rlkey=61xclnrraadf1niqdvldlds93
+ISIC 2017 & 2018 - https://api.isic-archive.com/collections/
+BUSI - https://scholar.cu.edu.eg/?q=afahmy/pages/dataset
+Kavsir-seg - https://datasets.simula.no/kvasir-seg/
+CXRI - https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
